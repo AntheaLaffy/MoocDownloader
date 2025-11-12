@@ -16,9 +16,9 @@ An icourse163.org MOOC downloader implemented by .NET.
 
 Mooc Downloader 可用于下载中国大学 MOOC（icourse163.org）的课程，包括视频、课件、附件和字幕，方便离线观看。
 
-![ 7](https://github.com/xixixixixiao/mooc-downloader/raw/master/docs/images/main-interface.png)
+![ 7](https://github.com/xixixixixiao/mooc-downloader/blob/master/docs/images/main-interface.png)
 
-![ 8](https://github.com/xixixixixiao/mooc-downloader/raw/master/docs/images/main-interface-downloading.png)
+![ 8](https://github.com/xixixixixiao/mooc-downloader/blob/master/docs/images/main-interface-downloading.png)
 
 ## 使用方法
 
